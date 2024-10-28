@@ -17,3 +17,20 @@ Text_to_Voice is a Streamlit app for converting text to speech using Eleven Labs
 -**Audio Playback:** Integrate audio playback using pygame to allow real-time listening of the generated audio within the app.
 
 -**Developer Info and Branding:** Add branding elements, including a logo, developer information, and social media links to enhance the app’s appearance and usability.
+
+**TECHNOLOGIES USED**
+
+-**Streamlit:** Framework used to build an interactive web application with a user-friendly interface.
+
+-**Eleven Labs API:** Provides text-to-speech capabilities; used here to convert user-input text into voice output.
+
+-**Pygame:** Module for handling audio playback within the app, enabling users to listen to the generated audio without external players.
+
+-**st_social_media_links:** Library for rendering clickable social media icons, helping to link users to the developer’s profiles directly from the app.
+
+**DOCUMENTATION**
+
+!https://www.youtube.com/watch?v=YO6OONrfljI
+
+!https://tecsify.com/blog/codigo/python-gtts/
+
